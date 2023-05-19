@@ -25,3 +25,10 @@ deactivate
 pip install py-avataaars
 ```
 
+# Como correr el proyecto
+
+Para correr el proyecto basta con ejecutar el archivo .py con el siguiente comando:
+
+```bash
+python3 avatar.py 
+```
