@@ -32,3 +32,7 @@ Para correr el proyecto basta con ejecutar el archivo .py con el siguiente coman
 ```bash
 python3 avatar.py 
 ```
+
+Editing some readme
+
+Another line to readme
